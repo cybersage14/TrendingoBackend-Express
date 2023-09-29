@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darenGit28/TrendingoFrontend-React.git"
+    "url": "git+https://github.com/darenGit28/TrendingoBackend-Express.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/darenGit28/TrendingoFrontend-React/issues"
+    "url": "https://github.com/darenGit28/TrendingoBackend-Express/issues"
   },
-  "homepage": "https://github.com/darenGit28/TrendingoFrontend-React#readme",
+  "homepage": "https://github.com/darenGit28/TrendingoBackend-Express#readme",
   "dependencies": {
     "axios": "^0.26.0",
     "config": "^3.3.7",
